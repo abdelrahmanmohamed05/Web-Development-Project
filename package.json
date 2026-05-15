@@ -1,0 +1,16 @@
+{
+  "name": "task-management-app",
+  "version": "1.0.0",
+  "description": "Full-stack task management web app starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm --prefix backend run test",
+    "start": "npm --prefix backend run start",
+    "lint": "npm --prefix backend run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true
+}
